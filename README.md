@@ -22,3 +22,6 @@ The model shows that performance increases with stress up to a point, then decre
 - Collect real data
 - Apply machine learning
 - Build interactive dashboard
+## Result
+
+![Result](result.png)
